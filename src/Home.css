@@ -1,0 +1,61 @@
+.header{
+    margin: 10px;
+    border:2px;
+    border-color: rgb(24, 111, 243);
+    border-style:solid;
+    background-color: rgb(224, 126, 195);
+}
+h2{
+    padding-left:30px;
+    padding-bottom:10px;
+}
+.base{
+    height:500px;
+    margin:10px;
+    border:2px;
+    border-color:rgb(102, 26, 173);
+    border-style:solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(127, 240, 255);
+}
+.first,.first img{
+    height:500px;
+    width: 300px;
+    border:2px;
+    border-color: rgb(230, 19, 19);
+    border-style:dotted;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+.second,.second img{
+    height:500px;
+    width: 300px;
+    border:2px;
+    border-color: rgb(240, 139, 240);
+    border-style:dotted;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+.third,.third img{
+    height:500px;
+    width: 300px;
+    border:2px;
+    border-color: rgb(212, 17, 180);
+    border-style:dotted;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+p{
+    align-items: center;
+}
+.Navibar img{
+    height:200px; 
+    width:200px;
+} 
