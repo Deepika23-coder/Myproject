@@ -5,3 +5,13 @@
   align-items:center;
   justify-content:center;
 }
+.child{
+  width:30px;
+  height:50px;
+  padding:20px;
+  border: 5px;
+  border-color: black;
+  border-style: solid;
+  padding-left: 300px;
+
+}
