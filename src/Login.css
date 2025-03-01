@@ -3,7 +3,7 @@
   width:100vw;
   display:flex;
   align-items:center;
-  justify-content:space space-between;
+  justify-content: space-between;
   background-color: dimgray;
 }
 .child{
